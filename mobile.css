@@ -34,6 +34,9 @@ header {
     height: 38px;
     margin-top: 31px;
 }
+.lastp4{
+    word-break: break-all;
+}
 
 .line2 {
     margin-top: 36px;

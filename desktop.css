@@ -11,7 +11,7 @@
     }
 
     .inp1 {
-        margin-left: -50px;
+        margin-left: -240px;
     }
 
     main {
@@ -101,5 +101,25 @@ transform: scale(1.1);
        
     }
     
+    /* javaaa */
+    .Getbackground{
+        background: #141D2F;
+    }
+    
+    .Getwhite{
+        color: #FFF;
+    }
+    
+    .Getblack{
+        background: #1E2A47;
+    }
+    
+    .Getblackcolor::placeholder{
+        color: white;
+    }
+    
+    .Getwhitecolor{
+        color: white;
+    }
     
 }

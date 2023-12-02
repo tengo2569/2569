@@ -1,0 +1,105 @@
+@media (width>1440px) {
+
+    header,
+    .line1,
+    .line2 {
+        width: 730px;
+    }
+
+    .line1 {
+        gap: 524px;
+    }
+
+    .inp1 {
+        margin-left: -50px;
+    }
+
+    main {
+        width: 730px;
+        height: 420px;
+    }
+
+    .hide {
+        width: 480px;
+        display: flex;
+        color: #4B6A9B;
+        font-size: 15px;
+        font-weight: 400;
+
+    }
+
+    h4 {
+        margin-left: 3px;
+    }
+
+    h5 {
+        left: 325px;
+        top: -55px;
+        position: relative;
+
+    }
+
+    .box3 {
+        width: 480px;
+        top: -103px;
+        left: 172px;
+        position: relative;
+    }
+
+    h6 {
+        display: none;
+    }
+
+    .endline {
+        position: relative;
+        left: 175px;
+        top: -80px;
+    }
+
+    .inp1:hover {
+        cursor: pointer;
+    }
+
+    .search:hover {
+        background: #60ABFF;
+        cursor: pointer;
+        transition: 0.7s;
+    }
+
+    .moon:hover {
+        cursor: pointer;
+        transform: scale(1.1);
+    }
+
+    .hide2 {
+        display: none;
+        position: relative;
+        left: 60px;
+        color: #F74646;
+        font-size: 15px;
+        font-weight: 700;
+
+    }
+    .icons:hover{
+        cursor: pointer;
+transform: scale(1.1);
+    }
+    .link{
+        text-decoration: none;
+       
+       
+    }
+    .light {
+        background: #F6F8FF;
+        color: #000000;
+      
+    }
+    
+    .dark {
+        background: #141D2F;
+        color: #ffffff;
+       
+    }
+    
+    
+}
